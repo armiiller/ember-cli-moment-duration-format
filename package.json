@@ -1,0 +1,28 @@
+{
+  "name": "ember-cli-moment-duration-format",
+  "description": "An ember-cli addon to import moment-duration-format library.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Austin Miller <austinrmiller1991@gmail.com>",
+  "homepage": "https://github.com/armiiller/ember-cli-moment-duration-format",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armiiller/ember-cli-moment-duration-format.git"
+  },
+  "bugs": {
+    "url": "https://github.com/armiiller/ember-cli-moment-duration-format/issues"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember-cli",
+    "ember",
+    "moment",
+    "moment-duration",
+    "moment-duration-format",
+    "format"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified, PRs welcome\" && exit 1"
+  },
+  "main": "index.js"
+}
