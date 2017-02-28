@@ -9,7 +9,7 @@ module.exports = {
 
   afterInstall: function(options) {
     return this.addBowerPackagesToProject([
-      {name: 'moment-duration-format', target: 'moment-duration-format'}
+      {name: 'moment-duration-format', target: '^1.3.0'}
     ]);
   } // :afterInstall
 
